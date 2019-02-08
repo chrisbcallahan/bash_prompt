@@ -1,6 +1,6 @@
 # bash_prompt
 
-**Developed by: 
+**Developed by:** 
 
 - Chris Callahan
 
@@ -8,25 +8,25 @@
 
 ## Instructions
 
-**To clean my code (i.e., remove any compiled files), type:
+**To clean my code (i.e., remove any compiled files), type:**
 
 ```
 $ make clean
 ```
 
-**To compile my code, type:
+**To compile my code, type:**
 
 ```
 $ make
 ```
 
-**To run code (after compiling it), type: 
+**To run code (after compiling it), type:** 
 
 ```
 $ ./1730sh
 ```
 
-**Once Running
+**Once Running**
 ```
 $ cat file.txt
 ```
