@@ -22,10 +22,12 @@ $ make
 
 To run code (after compiling it), type:
 
-To Run:
-1: $ ./1730sh
 
-Once Running:
+
+1 - Running the program: $ ./1730sh
+
+**Once Running**
+
 2: $ cat file.txt
 
 3. $ cat file.txt | grep // > out.txt
