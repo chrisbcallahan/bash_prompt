@@ -1,9 +1,10 @@
 # bash_prompt
 
-# Project 4
+Developed by: 
 
-Chris Callahan (811-264-461)
-John Zay(811-337-298)
+- Chris Callahan
+
+- John Zay
 
 ## Instructions
 
@@ -26,11 +27,19 @@ To Run:
 
 Once Running:
 2: $ cat file.txt
+
 3. $ cat file.txt | grep // > out.txt
+
 4. $ help [command]
+
 5. $ cd [path]
+
 6. $ exit
+
 7. $ export NAME[=WORD]
+
 8. $ fg JID
+
 9. $ jobs
+
 10. $ Any Regular Bash Command
